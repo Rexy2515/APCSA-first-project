@@ -22,9 +22,9 @@ public class SlopeBetweenTwoPoints {
 
 result= (Y2-Y1)/(X2-X1);
         System.out.println("Your slope is: " + result);
-        System.out.println("Would you like to restart the program? Type 1 to restart and type 2 to end.");
         
-        scan.close();
+        
+      
     }
     }
 

@@ -15,9 +15,8 @@ public class AreaOfCircle {
 
        
         System.out.println("The are of your circle is: " + result);
-        System.out.println("Would you like to restart the program? Type 1 to restart and type 2 to end.");
       
-        scan.close();
+        
     }
     }
 
